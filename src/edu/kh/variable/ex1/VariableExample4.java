@@ -21,8 +21,6 @@ public class VariableExample4 {
 		System.out.println("temp: " + temp); // 3.14
 		System.out.println("num: " + num); // 3
 		// 실수 -> 정수형 변환시 소수점 버림 처림(데이터 손실)
-		
-		
-		
+
 	}
 }
